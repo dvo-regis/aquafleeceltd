@@ -4,13 +4,13 @@
  */
 
 // an email address that will be in the From field of the email.
-$from = 'Babun <demo@domain.com>';
+$from = 'Aquafleece Solutions Ltd <info@aquafleeceltd.com>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'Babun contact form <demo@domain.com>'; // Add Your emnail here
+$sendTo = 'Aquafleece Solutions Ltd contact form <info@aquafleeceltd.com>'; // Add Your emnail here
 
 // subject of the email
-$subject = 'New message from Babun';
+$subject = 'New Enquiry for Aquafleece Solutions Ltd';
 
 // form field names and their translations.
 // array variable name => Text to appear in the email
